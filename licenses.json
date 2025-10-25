@@ -1,0 +1,14 @@
+[
+  {
+    "key": "VELIZA-001",
+    "user": "Veliza",
+    "token": "1234567890:ABCDEF-ghijklmn",
+    "expire": "2025-12-31"
+  },
+  {
+    "key": "RYUZO-123",
+    "user": "Ryuzo",
+    "token": "9876543210:ZYXWVUT-SAMPLE",
+    "expire": "2025-11-30"
+  }
+]
