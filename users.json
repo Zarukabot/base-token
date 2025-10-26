@@ -4,5 +4,11 @@
     "password": "admin123",
     "role": "admin",
     "createdAt": "2025-10-26T10:29:29.928Z"
+  },
+  {
+    "username": "sss",
+    "password": "admin111",
+    "role": "seller",
+    "createdAt": "2025-10-26T10:30:39.789Z"
   }
 ]
