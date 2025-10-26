@@ -1,0 +1,8 @@
+[
+  {
+    "timestamp": "2025-10-26T10:43:47.622Z",
+    "user": "admin",
+    "action": "LOGOUT",
+    "description": "User admin logged out"
+  }
+]
